@@ -1,7 +1,6 @@
 {
   "name": "seed",
   "description": "The Project is an infrastrcuture for building more complex Application.",
-  "main": "src/index.html",
   "authors": [
     "rayintee@gmail.com"
   ],
@@ -19,5 +18,12 @@
     "src/bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-route": "~1.4.5",
+    "angular-loader": "~1.4.5",
+    "angular-mocks": "~1.4.5",
+    "html5-boilerplate": "~5.3.0"
+  }
 }
