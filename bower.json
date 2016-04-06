@@ -1,0 +1,23 @@
+{
+  "name": "seed",
+  "description": "The Project is an infrastrcuture for building more complex Application.",
+  "main": "src/index.html",
+  "authors": [
+    "rayintee@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "seed"
+  ],
+  "homepage": "https://github.com/rayintee/seed",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
